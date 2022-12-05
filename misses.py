@@ -3,7 +3,7 @@
 # Filename :        misses.py
 # Name:             Pallavi Karengala,Ranjith Reddy Pingli
 # Email:            PallaviKarengala@lewisu.edu,ranjithreddypingli@lewisu.edu
-# Course & Sections:Software Engineering- 005 FA22-CPSC-59700-001
+# Course & Sections:Software Engineering- 005 FA22-CPSC-60500-005
 # Date:             Nov 19 2022
 # Explanation:      search for near misses of the form (x, y, z, n, k) with
 #                   the formula x^n + y^n = z^n, where x, y, z, n, k are
